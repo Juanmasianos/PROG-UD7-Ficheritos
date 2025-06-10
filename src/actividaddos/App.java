@@ -3,11 +3,7 @@ package actividaddos;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.IOException;
-import java.nio.charset.StandardCharsets;
-import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 public class App {
